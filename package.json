@@ -1,0 +1,21 @@
+{
+  "name": "pub-pkg-show-font",
+  "version": "1.0.0",
+  "description": "Generates a /show-font page for viewing your font in different font weights and styles.",
+  "main": "pub-config.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "pub-server",
+    "font",
+    "viewer"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jldec/pub-pkg-show-font.git"
+  },
+  "author": "jurgen leschner",
+  "license": "MIT"
+}
