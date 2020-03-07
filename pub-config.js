@@ -4,5 +4,5 @@ var opts = module.exports = {
   github:      'https://github.com/jldec/pub-pkg-show-font',
   sources:     './show-font.md',
   injectJs:    '/js/show-font.js',
-  copyright:   'Copyright (c) 2015-2019 Jürgen Leschner - github.com/jldec - MIT License'
+  copyright:   'Copyright (c) 2015-2020 Jürgen Leschner - github.com/jldec - MIT License'
 }
